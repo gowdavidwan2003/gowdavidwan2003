@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidwan Gowda H M</h1>
 <h3 align="center">Passionate Explorer, Innovative Learner, Collaborative Builder</h3>
-<img align="right" alt="Coading" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw3NO1LBJvP2H3N0iBBLOEhd&ust=1704825559747000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDQk6e4zoMDFQAAAAAdAAAAABAZ">
+<img align="right" alt="Coading" width=400 src="Coding GIF - Coding - Discover & Share GIFs.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowdavidwan2003&label=Profile%20views&color=0e75b6&style=flat" alt="gowdavidwan2003" /> </p>
