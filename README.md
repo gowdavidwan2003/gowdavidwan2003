@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidwan Gowda H M</h1>
 <h3 align="center">Passionate Explorer, Innovative Learner, Collaborative Builder</h3>
-
+<img align="right" alt="Coading" width=400 src="https://pin.it/3rmTyTF">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowdavidwan2003&label=Profile%20views&color=0e75b6&style=flat" alt="gowdavidwan2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowdavidwan2003" alt="gowdavidwan2003" /></a> </p>
