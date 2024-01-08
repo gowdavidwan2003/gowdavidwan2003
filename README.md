@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidwan Gowda H M</h1>
 <h3 align="center">Passionate Explorer, Innovative Learner, Collaborative Builder</h3>
-<img align="right" alt="Coading" width=400 src="Coding GIF - Coding - Discover & Share GIFs.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowdavidwan2003&label=Profile%20views&color=0e75b6&style=flat" alt="gowdavidwan2003" /> </p>
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 📫 How to reach me **gowdavidwan2003@gmail.com**
-
+<img align="right" alt="Coading" width=400 src="Coding GIF - Coding - Discover & Share GIFs.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gowdavidwan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowdavidwan2003" height="30" width="40" /></a>
