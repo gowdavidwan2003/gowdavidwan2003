@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidwan Gowda H M</h1>
 <h3 align="center">Passionate Explorer, Innovative Learner, Collaborative Builder</h3>
-
+<img alt="Vidwan Gowda H M" width=800 src="d.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowdavidwan2003&label=Profile%20views&color=0e75b6&style=flat" alt="gowdavidwan2003" /> </p>
